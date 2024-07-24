@@ -39,6 +39,18 @@ This is a Single Page Application (SPA) built using the latest version of Angula
 
 - **Language**: TypeScript is a superset of JavaScript that compiles to clean JavaScript output. It provides optional static typing, classes, and interfaces.
 
+### Components
+View mode
+![image](https://github.com/user-attachments/assets/3568a7b5-7b84-4ad1-a473-e05d3abab8e5)
+
+Settings
+![image](https://github.com/user-attachments/assets/87dad94f-3150-4579-9264-255bf090071b)
+
+Modal
+![image](https://github.com/user-attachments/assets/e7ae1890-918a-4611-977d-65ae9945a93b)
+
+
+
 ## Project Structure
 
 The project follows the standard Angular project structure with some additional organization for NgRx state management.
@@ -74,16 +86,6 @@ src/
 │   └── environment.ts
 ├── styles.css
 └── index.html
-
-### Components
-View mode
-![image](https://github.com/user-attachments/assets/3568a7b5-7b84-4ad1-a473-e05d3abab8e5)
-
-Settings
-![image](https://github.com/user-attachments/assets/87dad94f-3150-4579-9264-255bf090071b)
-
-Modal
-![image](https://github.com/user-attachments/assets/e7ae1890-918a-4611-977d-65ae9945a93b)
 
 
 

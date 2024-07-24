@@ -2,15 +2,6 @@
 
 This is a Single Page Application (SPA) built using the latest version of Angular. The application displays a list of charts, allows users to filter these charts by date range, and manage (add, edit, delete) charts through a settings interface. This project leverages several modern web development libraries and frameworks.
 
-## Table of Contents
-
-1. [Technologies Used](#technologies-used)
-2. [Project Structure](#project-structure)
-3. [Getting Started](#getting-started)
-4. [Features](#features)
-5. [Running the Application](#running-the-application)
-6. [Building the Application](#building-the-application)
-7. [Further Reading](#further-reading)
 
 ## Technologies Used
 
